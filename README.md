@@ -28,3 +28,4 @@ The default file types supported by GitHub are as follows:
 - [`SUPPORT`](https://help.github.com/en/articles/adding-support-resources-to-your-project): A SUPPORT file lets people know about ways to get help with your project.
 
 Note: License files must be added to individual repositories so the file will be included when a project is cloned, packaged, or downloaded.
+
